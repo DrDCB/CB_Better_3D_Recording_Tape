@@ -7,10 +7,8 @@ func _ready():
 	var matovr = dcbtape.get_surface_material(0)
 	if tape.is_bootleg():
 		if !matovr:
-			var newmat = SpatialMaterial.new()
-			var tex = preload("res://models/ui/recording_tape/materials/dcb_tape_bootleg.png")
-			newmat.set_texture(SpatialMaterial.TEXTURE_ALBEDO, tex)
-			dcbtape.set_surface_material(0, newmat)
+			var bootmat = preload("res://models/ui/recording_tape/dcb_tape_bootleg_mat.tres")
+			dcbtape.set_surface_material(0, bootmat)
 	else:
 		if matovr:
 			matovr = null
