@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://models/titlescreen/dcb_tape_player.mesh" type="ArrayMesh" id=1]
+[ext_resource path="res://models/titlescreen/dcb_title_tape_hide.gd" type="Script" id=2]
+
+[node name="cassette_player" type="Spatial"]
+script = ExtResource( 2 )
+
+[node name="cassette_player" type="MeshInstance" parent="."]
+mesh = ExtResource( 1 )
