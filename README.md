@@ -3,10 +3,10 @@ Replaces the 3D cassette tape model that briefly appears when capturing/receivin
 
 Download the mod from [ModWorkshop](https://modworkshop.net/game/cassette-beasts).
 
-Acknowledgements:
-
+## Acknowledgements:
 Many thanks to Flora on the official [Bytten Studio Discord](https://discord.gg/byttenstudio) for helping troubleshoot my initial issues with the script not working. Damn autoloads.
 
+## License:
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
