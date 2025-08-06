@@ -1,9 +1,10 @@
-# Cassette Beasts: Better 3D Recording Tape
+<p align="center"><img src="img/B3DRT_Banner.jpg?raw=true" alt="Header image"/></p>
+
 Replaces the 3D cassette tape model that briefly appears when capturing/receiving a new monster. Also dynamically switches its colour to match the 2D sprites for standard and bootleg tapes.
 
 As a bonus extra, the tape and player on the title screen can be replaced, using the new tape models from above and a new cassette player model. This is available as a separate optional download.
 
-Download the mod from [ModWorkshop](https://modworkshop.net/game/cassette-beasts).
+Download the mod from [ModWorkshop](https://modworkshop.net/mod/53375).
 
 ## Acknowledgements:
 Many thanks to Flora on the official [Bytten Studio Discord](https://discord.gg/byttenstudio) for helping troubleshoot my initial issues with the script not working. Damn autoloads.
