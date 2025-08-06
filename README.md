@@ -4,6 +4,9 @@ Replaces the 3D cassette tape model that briefly appears when capturing/receivin
 
 As a bonus extra, the tape and player on the title screen can be replaced, using the new tape models from above and a new cassette player model. This is available as a separate optional download.
 
+Vanilla vs new tape model comparison:
+<p align="center"><img src=".github/images/3D_Recoding_Tape_Vanilla_vs_New.png?raw=true"/></p>
+
 In-game examples:
 <details>
 <summary>Standard capture</summary>
