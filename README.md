@@ -19,6 +19,13 @@ https://github.com/user-attachments/assets/ef8feb04-57eb-4c9d-bd37-f00a45edd2ec
 
 </details>
 
+<details>
+<summary>Title screen player/tape replacement</summary>
+
+<p align="center"><img src=".github/images/Title_Screen_Tape_Player_Swap.jpg?raw=true"/></p>
+
+</details>
+
 Download the mod from [ModWorkshop](https://modworkshop.net/mod/53375).
 
 ## Acknowledgements:
